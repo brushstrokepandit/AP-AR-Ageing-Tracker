@@ -1,4 +1,4 @@
-# 3. AP / AR Ageing Tracker
+# AP/AR Ageing Tracker
 
 **File:** `AP_AR_Ageing_Tracker.xlsx` | **Data:** synthetic, INR | **As-of date:** 30-Nov-2026 (editable)
 
